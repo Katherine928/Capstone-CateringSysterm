@@ -1,0 +1,51 @@
+ 02/11/22 04:57:02 PM      ADD MONEY                 $0.0                       $50.0                     
+ 02/11/22 04:57:06 PM      3 C Sharp Cheese Plate A1      $50.0                      $39.5                     
+ 02/11/22 04:57:35 PM      ADD MONEY                 $39.5                      $89.5                     
+ 02/11/22 04:57:45 PM      5 Broiled Shrimp A3       $89.5                      $68.75                    
+ 02/11/22 05:01:47 PM      ADD MONEY                 $0.0                       $50.0                     
+ 02/11/22 05:01:53 PM      3 C Sharp Cheese Plate A1      $50.0                      $39.5                     
+ 02/11/22 05:01:53 PM      Give Change               $50.0                      $39.5                     
+ 02/11/22 05:02:57 PM      ADD MONEY                 $0.0                       $50.0                     
+ 02/11/22 05:03:02 PM      3 C Sharp Cheese Plate A1      $50.0                      $39.5                     
+ 02/11/22 05:03:02 PM      Give Change               $39.5                      $0.0                      
+ 02/11/22 05:07:32 PM      ADD MONEY                 $0.0                       $50.0                     
+ 02/11/22 05:07:35 PM      3 C Sharp Cheese Plate A1      $50.0                      $39.5                     
+ 02/11/22 05:07:37 PM      GIVE CHANGE               $39.5                      $0.0                      
+ 02/11/22 05:43:44 PM      ADD MONEY                 $0.0                       $50.0                     
+ 02/11/22 05:43:49 PM      2 C Sharp Cheese Plate A1      $50.0                      $43.0                     
+ 02/11/22 05:43:55 PM      3 Meatballs    A2         $43.0                      $34.15                    
+ 02/11/22 05:43:58 PM      GIVE CHANGE               $34.15                     $0.0                      
+ 02/11/22 08:15:37 PM ADD MONEY            $0.0                  $100.0               
+
+ 02/11/22 08:15:51 PM ADD MONEY            $100.0                $200.0               
+
+ 02/11/22 08:15:59 PM 25 C Sharp Cheese Plate A1 $200.0                $112.5               
+
+ 02/11/22 08:16:07 PM 5 NY Style Cheesecake D1 $112.5                $99.75               
+
+ 02/11/22 08:16:21 PM GIVE CHANGE          $99.75                $0.0                 
+
+ 02/11/22 08:17:54 PM ADD MONEY            $0.0                  $100.0               
+
+ 02/11/22 08:17:57 PM ADD MONEY            $100.0                $200.0               
+
+ 02/11/22 08:18:02 PM 25 C Sharp Cheese Plate A1 $200.0                $112.5               
+
+ 02/11/22 08:18:11 PM 25 Apple Pie D5      $112.5                $50.0                
+
+ 02/11/22 08:18:21 PM 1 Java Green Tea B4  $50.0                 $47.65               
+
+ 02/11/22 08:18:25 PM GIVE CHANGE          $47.65                $0.0                 
+
+ 02/16/22 07:17:56 PM ADD MONEY            $0.0                  $50.0                
+
+ 02/16/22 07:18:26 PM 3 C Sharp Cheese Plate A1 $50.0                 $39.5                
+
+ 02/16/22 07:18:48 PM 2 Meatballs A2       $39.5                 $33.6                
+
+ 02/16/22 07:18:52 PM GIVE CHANGE          $33.6                 $0.0                 
+
+ 02/17/22 05:02:49 PM ADD MONEY            $0.0                  $50.0                
+
+ 02/17/22 05:02:56 PM 2 C Sharp Cheese Plate A1 $50.0                 $43.0                
+
